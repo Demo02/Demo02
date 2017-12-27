@@ -1,4 +1,4 @@
-package com.example.geting.text01;
+package com.example.geting.demo01;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
